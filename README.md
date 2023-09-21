@@ -14,7 +14,6 @@
     <p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/rasheedabdulhaq">www.linkedin.com/in/rasheedabdulhaq</a></p>
     <p><strong>GitHub:</strong> <a href="https://github.com/rasheedhaq">https://github.com/rasheedhaq</a></p>
 
-    <h2>Summary</h2>
 
 
 
