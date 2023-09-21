@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Rasheed Abdul Haq K. P.</h1>
-    <p><strong>Location:</strong> Vayaloram, Kozhiparambil Po, Pattikkad, Malappuram District</p>
+    <p><strong>Location:</strong> Vayaloram, Kozhiparambil Po, Pattikkad, Malappuram District
     <p><strong>Contact:</strong> +91 9400472727</p>
     <p><strong>Email:</strong> <a href="mailto:rasheedabdulhaq@gmail.com">rasheedabdulhaq@gmail.com</a></p>
     <p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/rasheedabdulhaq">www.linkedin.com/in/rasheedabdulhaq</a></p>
