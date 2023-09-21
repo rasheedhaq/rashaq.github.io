@@ -4,11 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rasheed Abdul Haq K. P. - CV</title>
-    <style>
-        /* Add your CSS styling here */
-        /* You can style headings, paragraphs, lists, etc. */
-    </style>
+
 </head>
 <body>
     <h1>Rasheed Abdul Haq K. P.</h1>
