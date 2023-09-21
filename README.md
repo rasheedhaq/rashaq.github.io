@@ -1,4 +1,32 @@
 # rashaq.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rasheed Abdul Haq K. P. - CV</title>
+    <style>
+        /* Add your CSS styling here */
+        /* You can style headings, paragraphs, lists, etc. */
+    </style>
+</head>
+<body>
+    <h1>Rasheed Abdul Haq K. P.</h1>
+    <p><strong>Location:</strong> Vayaloram, Kozhiparambil Po, Pattikkad, Malappuram District</p>
+    <p><strong>Contact:</strong> +91 9400472727</p>
+    <p><strong>Email:</strong> <a href="mailto:rasheedabdulhaq@gmail.com">rasheedabdulhaq@gmail.com</a></p>
+    <p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/rasheedabdulhaq">www.linkedin.com/in/rasheedabdulhaq</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/rasheedhaq">https://github.com/rasheedhaq</a></p>
+
+    <h2>Summary</h2>
+    <p>I am a seasoned Senior Software Engineer specializing in AI/ML at Dimaag-AI with a Ph.D. in Deep Learning (DL) from the National Institute of Technology Puducherry (NITPY). My expertise encompasses deep sequence modeling and time-series prediction using ML/DL. I bring extensive experience in embedded systems, both in hardware and software. My strong coding skills, particularly in Python, empower me to create innovative solutions. I have a profound passion for leveraging technology to make a positive societal impact and excel in collaborative team environments.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Ph.D.</strong> in Deep Learning, ECE dept., NITPY, 2018 - 2023 (Thesis submitted Sept. 2023)</li>
+        <li><strong>M.Tech</strong> in Electronics Design Technology, NIELIT, 2012 - 2014</li>
+        <li><strong>B.Tech</strong> in Electronics and Communication Engineering, CUSAT, 2005 - 2009</li>
+
 
 Rasheed Abdul Haq K P
 Location: Vayaloram, Kozhiparambil Po, Pattikkad, Malappuram District
