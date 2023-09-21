@@ -13,17 +13,6 @@
     <p><strong>Email:</strong> <a href="mailto:rasheedabdulhaq@gmail.com">rasheedabdulhaq@gmail.com</a></p>
     <p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/rasheedabdulhaq">www.linkedin.com/in/rasheedabdulhaq</a></p>
     <p><strong>GitHub:</strong> <a href="https://github.com/rasheedhaq">https://github.com/rasheedhaq</a></p>
-
-
-
-
-Rasheed Abdul Haq K P
-Location: Vayaloram, Kozhiparambil Po, Pattikkad, Malappuram District
-Contact: 09400472727
-Email: rasheedabdulhaq@gmail.com
-LinkedIn: www.linkedin.com/in/rasheedabdulhaq
-Github: https://github.com/rasheedhaq
-
 Summary:
 I am a seasoned Senior Software Engineer specializing in AI/ML at Dimaag-AI with a Ph.D. in Deep Learning (DL) from the National Institute of Technology Puducherry (NITPY). My expertise encompasses deep sequence modelling and time-series prediction using ML/DL. I bring extensive experience in embedded systems, both in hardware and software. My strong coding skills, particularly in Python, empower me to create innovative solutions. I have a profound passion for leveraging technology to make a positive societal impact and excel in collaborative team environments.
 
