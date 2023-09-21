@@ -15,13 +15,7 @@
     <p><strong>GitHub:</strong> <a href="https://github.com/rasheedhaq">https://github.com/rasheedhaq</a></p>
 
     <h2>Summary</h2>
-    <p>I am a seasoned Senior Software Engineer specializing in AI/ML at Dimaag-AI with a Ph.D. in Deep Learning (DL) from the National Institute of Technology Puducherry (NITPY). My expertise encompasses deep sequence modeling and time-series prediction using ML/DL. I bring extensive experience in embedded systems, both in hardware and software. My strong coding skills, particularly in Python, empower me to create innovative solutions. I have a profound passion for leveraging technology to make a positive societal impact and excel in collaborative team environments.</p>
 
-    <h2>Education</h2>
-    <ul>
-        <li><strong>Ph.D.</strong> in Deep Learning, ECE dept., NITPY, 2018 - 2023 (Thesis submitted Sept. 2023)</li>
-        <li><strong>M.Tech</strong> in Electronics Design Technology, NIELIT, 2012 - 2014</li>
-        <li><strong>B.Tech</strong> in Electronics and Communication Engineering, CUSAT, 2005 - 2009</li>
 
 
 Rasheed Abdul Haq K P
