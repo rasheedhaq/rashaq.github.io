@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rasheed Abdul Haq K. P.</title>
+  <style>
+    /* CSS styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      margin-top: 0;
+    }
+    ul {
+      padding: 0;
+      list-style-type: none;
+    }
+    ul li {
+      margin-bottom: 5px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Rasheed Abdul Haq K. P.</h1>
+  </header>
+
+  <div class="container">
+
+    <section id="summary">
+      <h2>Summary</h2>
+      <ul>
+        <li>Senior Software Engineer specializing in <strong>AI/ML</strong> with <strong>PhD</strong> from the National Institute of Technology.</li>
+        <li>Expertise in computer vision, deep sequence modeling, and time-series prediction.</li>
+        <li>Strong coding skills, particularly in <strong>Python</strong>, with a research interest in AI/ML.</li>
+        <li>Excels in collaborative team environments.</li>
+      </ul>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>Ph.D.</strong> in Deep Learning, National Institute of Technology (NIT), Puducherry, India, 2018 - 2023</li>
+        <li><strong>M.Tech</strong> in Electronics Design Technology, National Institute of Electronics & Information Technology (NIELIT), Calicut, India, 2012 - 2014</li>
+        <li><strong>B.Tech</strong> in Electronics and Communication Engineering, School of Engineering, CUSAT, Cochin, India, 2005 - 2009</li>
+      </ul>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+
+      <!-- Experience details go here -->
+      
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+
+      <!-- Publications details go here -->
+
+    </section>
+
+    <section id="certifications">
+      <h2>Certifications</h2>
+      <ul>
+        <li>Coursera: Sequences, Time Series and Prediction</li>
+        <li>Cutshort Certified Python</li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Soft Skills: Presentation Skills, Leadership</li>
+        <li>Technical Skills: AI/ML/DL, Computer Vision, Regression, NLP</li>
+        <li>Languages: Python, C++, MATLAB</li>
+        <li>Libraries: ML/DL (TF, PyTorch, Keras), Data (NumPy, Pandas, Matplotlib)</li>
+        <li>Tools: Azure, Git</li>
+        <li>Operating Systems: Windows, Linux</li>
+        <li>Database Management: SQL</li>
+      </ul>
+    </section>
+
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>Contact: <a href="tel:+919400472727">+91 9400472727</a> | Email: <a href="mailto:rasheedabdulhaq@gmail.com">rasheedabdulhaq@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/rasheedabdulhaq">www.linkedin.com/in/rasheedabdulhaq</a> | GitHub: <a href="https://github.com/rasheedhaq">github.com/rasheedhaq</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>
